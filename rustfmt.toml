@@ -1,2 +1,2 @@
 edition = "2021"
-use_field_init_shorthand = true
+use_field_init_shorthand = false
